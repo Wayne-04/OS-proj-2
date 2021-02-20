@@ -1,6 +1,6 @@
 // File:	rpthread.c
 
-// List all group member's name:
+// List all group member's name:Wayne Huang
 // username of iLab:
 // iLab Server:
 
